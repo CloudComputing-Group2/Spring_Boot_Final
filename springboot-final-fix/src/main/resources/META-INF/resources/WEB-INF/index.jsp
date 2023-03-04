@@ -21,5 +21,7 @@ body {
 			href='http://crunchify.com/category/spring-mvc/' target='_blank'>here</a>
 		for all Spring MVC, Web Development examples.<br>
 	</div>
+	comment in html 
+	<!-- comment in html -->
 </body>
 </html>
