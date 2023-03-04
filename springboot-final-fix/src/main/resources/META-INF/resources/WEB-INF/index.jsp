@@ -21,7 +21,16 @@ body {
 			href='http://crunchify.com/category/spring-mvc/' target='_blank'>here</a>
 		for all Spring MVC, Web Development examples.<br>
 	</div>
-	comment in html 
-	<!-- comment in html -->
+	insert tag div 
+	<div style="font-family: verdana; padding: 10px; border-radius: 10px; font-size: 12px; text-align:left;">
+ 
+		Spring MCV Tutorial by <a href="http://crunchify.com">Crunchify</a>.
+		Click <a
+			href="http://crunchify.com/category/java-web-development-tutorial/"
+			target="_blank">here</a> for all Java and <a
+			href='http://crunchify.com/category/spring-mvc/' target='_blank'>here</a>
+		for all Spring MVC, Web Development examples.<br>  
+		</div>
+
 </body>
 </html>
